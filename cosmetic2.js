@@ -11,7 +11,7 @@
       "title": "아워 비건 어성초 시카 토너 400ml",
       "imgUrl": "./img/add2.jpg",
       "content": 24000,
-      "price": 24000
+      "price": 23000
     },
     {
       "id": 36,

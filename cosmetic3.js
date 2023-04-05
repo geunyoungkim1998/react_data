@@ -4,7 +4,7 @@
       "title": "아워 비건 립밤 3.7g",
       "imgUrl": "./img/add7.jpg",
       "content": 9500,
-      "price": 9500
+      "price": 9000
     },
     {
       "id": 38,
